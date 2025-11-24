@@ -1,0 +1,2 @@
+# ShadowVowsDemo
+"Shadow Vows: Requiem of the Lost" es un desafiante Anime - ARPG Souls-like de Terror que te pone en la piel de una joven exorcista de academia, transportada a una dimensión demoníaca justo el día de su graduación. El jugador debe navegar un mundo gótico, oscuro y hostil, dominando el combate deliberado y la mecánica única de Exorcismo para purificar a los enemigos caídos y mantener su esencia para regresar, o perecer intentándolo.
