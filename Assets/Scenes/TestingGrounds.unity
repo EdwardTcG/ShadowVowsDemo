@@ -371,7 +371,7 @@ Transform:
   m_GameObject: {fileID: 486536769}
   serializedVersion: 2
   m_LocalRotation: {x: -0.0052726725, y: 0.9986122, z: -0.03171541, w: -0.041714415}
-  m_LocalPosition: {x: -1, y: 651, z: 7295}
+  m_LocalPosition: {x: 167, y: 780, z: 9305}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -513,11 +513,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 50dbf73711a76b14f9c106f0fff1bd82, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 847
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 50dbf73711a76b14f9c106f0fff1bd82, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -5245
+      value: -183
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 50dbf73711a76b14f9c106f0fff1bd82, type: 3}
       propertyPath: m_LocalRotation.w
@@ -549,7 +549,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 50dbf73711a76b14f9c106f0fff1bd82, type: 3}
       propertyPath: m_Name
-      value: 2022-07-12-kaihuatemple asset
+      value: TempleOfTesting
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -567,15 +567,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 3e625a1a144897940b2c9234746c1bc5, type: 3}
       propertyPath: m_LocalScale.x
-      value: 84.17967
+      value: 157.15503
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3e625a1a144897940b2c9234746c1bc5, type: 3}
       propertyPath: m_LocalScale.y
-      value: 84.17967
+      value: 157.15503
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3e625a1a144897940b2c9234746c1bc5, type: 3}
       propertyPath: m_LocalScale.z
-      value: 105.12173
+      value: 196.25175
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3e625a1a144897940b2c9234746c1bc5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -619,7 +619,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 3e625a1a144897940b2c9234746c1bc5, type: 3}
       propertyPath: m_Name
-      value: Sun_gateLow
+      value: SunGateJapan
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
